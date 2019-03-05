@@ -1,0 +1,4 @@
+localhost
+dbname = gerenciadortarefas
+user = gerenciadortarefas
+pass = gerenciadortarefas
